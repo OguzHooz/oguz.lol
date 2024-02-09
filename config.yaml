@@ -1,0 +1,65 @@
+baseURL: 'https://oguz.lol'
+languageCode: en-us
+title: '~oguz'
+theme: WonderMod
+
+# Code Highlight
+pygmentsstyle: "monokai"
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    style: monokai
+
+params:
+  env: production
+
+  defaultTheme: dark
+  
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  showtoc: true
+
+  assets:
+    disableHLJS: true
+
+  homeInfoParams:
+    Title: "Hi, \U0001F44B"
+    Content: |
+      Portefølje for 4.Semester. 
+
+  socialIcons:
+    - name: SourceHut
+      url: "https://git.sr.ht/~hooz/"
+    - name: GitHub
+      url: "https://github.com/OguzHooz"
+    - name: About
+      url: 'about'
+
+menu:
+  main:
+    - identifier: log
+      name: Log
+      url: log
+      weight: 10
+    - identifier: plan
+      name: Plan
+      url: plan
+      weight: 20
+    - identifier: source
+      name: Sources
+      url: source
+      weight: 30
+    - identifier: about
+      name: About
+      url: about
+      weight: 40

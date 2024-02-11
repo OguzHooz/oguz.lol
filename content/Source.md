@@ -4,7 +4,7 @@ summary: "Kilder brugt til udvikling"
 ---
 
 
-git ## Laravel
+## Laravel
 Følgende kilder bliver brugt til udvikling af Laravel
 
 - [Laracasts kurser](https://laracasts.com/)

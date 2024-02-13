@@ -59,7 +59,11 @@ menu:
       name: Sources
       url: source
       weight: 30
+    - identifier: product
+      name: Products
+      url: product
+      weight: 40
     - identifier: about
       name: About
       url: about
-      weight: 40
+      weight: 50

@@ -35,11 +35,15 @@ params:
   homeInfoParams:
     Title: "Hi, \U0001F44B"
     Content: |
-      Portefølje for 4.Semester. 
+      Portefølje for 4.Semester.
+
+      Her ses en overordnet plan for hver uge. Den kan dog variere uge for uge.
+
+      | Mandag      | Tirsdag     | Onsdag  | Torsdag | Fredag                                 |
+      | ----------- | ----------- | ------  | ------- | -------------------------------------- |
+      | Projekt     | Flutter     | Laravel | Projekt | Flutter + Laravel og Afrunding af ugen |
 
   socialIcons:
-    - name: SourceHut
-      url: "https://git.sr.ht/~hooz/"
     - name: GitHub
       url: "https://github.com/OguzHooz"
     - name: About

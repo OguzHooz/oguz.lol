@@ -25,6 +25,15 @@ Efter dette færdiggjorde jeg Flutter workshoppen og er lagt op i [GitHub](https
 
 ## Onsdag 14/02
 
+Jeg fik lavet en meget generel ugeplan for at se, hvilke emner der bliver arbejdet med på de specifikke dage, og hvilke dage der bliver brugt på projektet. Den kan ses [her](/).
+
+I dag begyndte jeg med at lave nogle små ændringer på porteføljen.
+Der gik en del tid med at opsætte miljøet til Laravel, da jeg stødte på nogle fejl i forbindelse med opsætningen af PHP med Composer.
+Det fik jeg løst ved hjælp af denne [video](https://www.youtube.com/watch?v=NgZDw8Ravvg). Derefter gik jeg i gang med [Laravel Starter Bootcamp](https://bootcamp.laravel.com/), men nåede desværre ikke længere end at opsætte Laravel-templaten.
+Bootcampen vil blive færdiggjort i morgen.
+
+{{< inTextImg url="/laravel/laravel-1.png" height=350 alt="Base template of a Laravel project" >}}
+
 ## Torsdag 15/02
 
 ## Fredag 16/02

@@ -36,4 +36,12 @@ Bootcampen vil blive færdiggjort i morgen.
 
 ## Torsdag 15/02
 
+I dag var det første møde i procesvejledningen, hvor vi hver især gennemgik vores projekt og emner.
+Vi præsenterede vores porteføljer for hinanden og delte gode råd og tricks om, hvordan man opsætter sin ugentlige plan, læringsplan og læringsmål.
+Et eksempel er, at der blev delt et link til [roadmap.sh](https://roadmap.sh), som indeholder et *'roadmap'* og guides til forskellige emner.
+Her har jeg tænkt mig at benytte mig af deres Flutter-guide.
+
+Resten af dagen blev brugt på gruppeprojektet og på at opsætte den fælles API.
+Der opstod en del problemer med at opsætte databasen med Entity Framework, men de er næsten blevet løst.
+
 ## Fredag 16/02

@@ -45,3 +45,13 @@ Resten af dagen blev brugt på gruppeprojektet og på at opsætte den fælles AP
 Der opstod en del problemer med at opsætte databasen med Entity Framework, men de er næsten blevet løst.
 
 ## Fredag 16/02
+
+Dagen blev brugt på at kigge på de [langsigtede læringsmål](/plan/langsigtet), hvor de forgående [semesters læringsmål](https://esdhweb.ucl.dk/D19-1181303.pdf?nocache=0cb5ce11-d93c-4a3c-a1ee-637b150499f3) blev brugt som inspiration.
+Den kortsigtede plan for uge 7-8 skal stadig gennemgås.
+
+Ellers blev resten af dagen brugt på at færdiggøre Laravel Bootcampen, som skal forestille at være en *Twitter*-klon. Kan ses på følgende [repo](https://github.com/OguzHooz/chirper)
+
+{{< inTextImg url="/laravel/laravel-2.png" height=350 alt="Dashboard of Chirper, a Laravel site built in the bootcamp" >}}
+
+
+

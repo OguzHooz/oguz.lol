@@ -41,7 +41,7 @@ params:
 
       | Mandag      | Tirsdag     | Onsdag  | Torsdag | Fredag                                 |
       | ----------- | ----------- | ------  | ------- | -------------------------------------- |
-      | Projekt     | Flutter     | Laravel | Projekt | Flutter + Laravel og Afrunding af ugen |
+      | Flutter     | Projekt     | Laravel | Projekt | Flutter + Laravel og afrunding af ugen |
 
   socialIcons:
     - name: GitHub

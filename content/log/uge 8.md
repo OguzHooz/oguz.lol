@@ -15,6 +15,10 @@ Herefter påbegyndte jeg kurset [Flutter & Dart - The Complete Guide](https://ww
 
 ## Tirsdag 20/02
 
+I dag fortsatte vi i projekgruppen med at arbejde på vores API.
+Her fik vi kigget på database diagrammet for API'en, samt fik vi løst en del problemer med Entity Framework og fik opsat databasen til API'en.
+
+Senere på dagen var der informationsmøde vedrørende praktik til 5. semester.
 
 ## Onsdag 21/02
 

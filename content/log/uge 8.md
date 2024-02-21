@@ -22,6 +22,9 @@ Senere på dagen var der informationsmøde vedrørende praktik til 5. semester.
 
 ## Onsdag 21/02
 
+Dagen begyndte med det andet ERFA-møde. Lig den første var det primært en introduktion samt en forventningsafstemning i forhold til de kommende møder.
+
+Efterfølgende startede jeg Laracasts' [*PHP For Beginners*](https://laracasts.com/series/php-for-beginners-2023-edition) kurset.
 
 ## Torsdag 22/02
 

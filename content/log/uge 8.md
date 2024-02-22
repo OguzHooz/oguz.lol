@@ -28,6 +28,10 @@ Efterfølgende startede jeg Laracasts' [*PHP For Beginners*](https://laracasts.c
 
 ## Torsdag 22/02
 
+Der var ERFA-møde med appudviklerne i Flutter.
+Her blev vi enige om, at vi søndag ville skrive sammen og høre, hvad der er gået godt eller skidt, eventuelt aftale om, hvorvidt vi har brug for at mødes i løbet af ugen før det næste ERFA-møde for at få kigget på eventuelle problemer.
+
+Senere arbejdede vi på projektet. Vi gennemgik databasediagrammet for normalformer og foretog mindre ændringer.
 
 ## Fredag 23/02
 

@@ -35,3 +35,7 @@ Senere arbejdede vi på projektet. Vi gennemgik databasediagrammet for normalfor
 
 ## Fredag 23/02
 
+Vi fik færdiggjort det sidste vedrørende databasen sammen med Entity Framework.
+
+Herefter fortsatte jeg med Laracasts' [*PHP For Beginners*](https://laracasts.com/series/php-for-beginners-2023-edition)
+og er næsten færdig med *The Fundamentals* delen.

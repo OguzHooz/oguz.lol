@@ -35,7 +35,9 @@ params:
   homeInfoParams:
     Title: "Hi, \U0001F44B"
     Content: |
-      Portefølje for 4.Semester.
+      Her er min portefølje for 4. semester, hvor jeg vil dokumentere hele mit forløb med mine valgfag: webudvikling med Laravel og appudvikling med Flutter.
+      
+      Det vil blive ført en daglig log, som kan ses [her](/log), og de løbende læringsmål samt læringsplanen kan ses [her](/plan).
 
       Her ses en overordnet plan for hver uge. Den kan dog variere uge for uge.
 

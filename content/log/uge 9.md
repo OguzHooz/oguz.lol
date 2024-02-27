@@ -16,6 +16,8 @@ Herefter fortsatte jeg med kurset[^1] fra sidste uge og blev færdig med introdu
 
 ## Tirsdag 27/02
 
+I dag havde vi møde med PO, hvor vi viste ham vores DCD samt vores database diagram, som han havde nogle få kommentarer til.
+Vi fik derefter rettet diverse diagrammer, så de bedre afspejler den faktiske data, vi bruger, og vi fik også set på Entity Framework.
 
 ## Onsdag 28/02
 

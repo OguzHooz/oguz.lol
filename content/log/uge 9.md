@@ -21,6 +21,12 @@ Vi fik derefter rettet diverse diagrammer, så de bedre afspejler den faktiske d
 
 ## Onsdag 28/02
 
+Fortsatte med PHP-kurset[^2], hvor der blev kigget på adskillelse af logik og views, også ved hjælp af partials,
+samt hvordan man kan sende data til sine partial views.
+
+{{< inTextImg url="/laravel/laravel-3.png" height=350 alt="" >}}
+
+{{< inTextImg url="/laravel/laravel-4.png" height=200 alt="" >}}
 
 ## Torsdag 29/02
 
@@ -28,3 +34,4 @@ Vi fik derefter rettet diverse diagrammer, så de bedre afspejler den faktiske d
 ## Fredag 01/03
 
 [^1]: [*Flutter & Dart - The Complete Guide*](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+[^2]: [*PHP For Beginners*](https://laracasts.com/series/php-for-beginners-2023-edition)

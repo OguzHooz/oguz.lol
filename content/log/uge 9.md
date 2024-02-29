@@ -30,6 +30,9 @@ samt hvordan man kan sende data til sine partial views.
 
 ## Torsdag 29/02
 
+Vi har i projektgruppen set på at få sat nogle endpoints i vores API samt foretaget nogle små ændringer.
+
+Der var også procesvejledning i dag, hvor vi snakkede om vigtigheden af at udarbejde en læringsplan og betydningen af at reflektere og skrive sin log.
 
 ## Fredag 01/03
 

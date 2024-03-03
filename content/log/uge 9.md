@@ -36,5 +36,8 @@ Der var også procesvejledning i dag, hvor vi snakkede om vigtigheden af at udar
 
 ## Fredag 01/03
 
+Dagen blev brugt på Flutter, og her fortsatte jeg med kruset[^1], hvor der blev kigget på widgets opsætning og deres betydning i Flutter.
+{{< inTextImg url="/flutter/flutter-2.png" height=350 alt="" >}}
+
 [^1]: [*Flutter & Dart - The Complete Guide*](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 [^2]: [*PHP For Beginners*](https://laracasts.com/series/php-for-beginners-2023-edition)

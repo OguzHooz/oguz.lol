@@ -16,6 +16,9 @@ Der blev også kort kigget på praktiksøgning.
 
 ## Tirsdag 05/03
 
+Vi fortsatte i gruppen med at kigge på vores API, vi kiggede blandt andet på at få opdateret databasen med data.
+
+Jeg fik også kigget lidt på Flutter-kurset[^1].
 
 ## Onsdag 06/03
 
@@ -25,3 +28,5 @@ Der blev også kort kigget på praktiksøgning.
 
 ## Fredag 08/03
 
+
+[^1]: [*Flutter & Dart - The Complete Guide*](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)

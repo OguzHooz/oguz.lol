@@ -22,6 +22,43 @@ Jeg fik også kigget lidt på Flutter-kurset[^1].
 
 ## Onsdag 06/03
 
+Jeg fortsatte med PHP-kurset[^2], hvor der blev kigget på superglobals og opsætning af routing med en controller.
+
+Senere var jeg også kort til karrieredagen, hvor jeg kort fik snakket med nogle virksomheder angående praktik på 5. semester.
+
+Her er et udsnit af en meget simpel controller, der gør brug af superglobals til at finde den efterspurgte `path` og returnere den tilsvarende side.
+```php
+<?php
+
+$uri = parse_url($_SERVER['REQUEST_URI'])['path'];
+
+$routes = [
+    '/' => 'controllers/index.php',
+    '/about' => 'controllers/about.php',
+    '/contact' => 'controllers/contact.php',
+];
+
+
+function routeToController($uri, $routes)
+{
+    if (array_key_exists($uri, $routes)) {
+        require $routes[$uri];
+    } else {
+        abort();
+    }
+}
+
+function abort($code = 404)
+{
+    http_response_code($code);
+
+    require "views/$code.php";
+
+    die();
+}
+
+routeToController($uri, $routes);
+```
 
 ## Torsdag 07/03
 
@@ -30,3 +67,4 @@ Jeg fik også kigget lidt på Flutter-kurset[^1].
 
 
 [^1]: [*Flutter & Dart - The Complete Guide*](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+[^2]: [*PHP For Beginners*](https://laracasts.com/series/php-for-beginners-2023-edition)

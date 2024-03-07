@@ -62,6 +62,11 @@ routeToController($uri, $routes);
 
 ## Torsdag 07/03
 
+Vi i projektgruppen har kigget på vores diagrammer og opdateret dem, så de korrekt afspejler den reelle kode.
+
+Vi har også undersøgt CS Demo Manager og muligheden for at uploade CS demo-filer for at analysere dem og trække data ud derfra.
+Her har jeg kigget på at få sat en API op, som tager demo-filen, kører automatisk analyse, og returnerer det som JSON. Det virker dog ikke på nuværende tidspunkt.
+Det igangværende projekt kan ses på [GitHub](https://github.com/OguzHooz/csdmAPI). 
 
 ## Fredag 08/03
 

@@ -70,6 +70,10 @@ Det igangværende projekt kan ses på [GitHub](https://github.com/OguzHooz/csdmA
 
 ## Fredag 08/03
 
+Dagen blev primært brugt på at foretage nogle finjusteringer af [API'en](https://github.com/OguzHooz/csdmAPI) fra i går.
+
+Derudover kiggede jeg også på disse to ugers læringsplaner, evaluerede dem og opsatte en læringsplan for de næste to uger.
+
 
 [^1]: [*Flutter & Dart - The Complete Guide*](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 [^2]: [*PHP For Beginners*](https://laracasts.com/series/php-for-beginners-2023-edition)

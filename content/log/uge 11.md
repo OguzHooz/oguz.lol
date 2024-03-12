@@ -16,6 +16,7 @@ Efter mødet fortsatte jeg med Flutter-kurset[^1]. Her blev der blandt andet kig
 
 ## Tirsdag 05/03
 
+Vi fortsatte arbejdet i projektgruppen med vores API. Vi gennemgik databasen og fjernede nogle overflødige klasser samt foretog nogle finjusteringer med Entity Framework.
 
 ## Onsdag 06/03
 

@@ -20,6 +20,9 @@ Vi fortsatte arbejdet i projektgruppen med vores API. Vi gennemgik databasen og 
 
 ## Onsdag 06/03
 
+Startede med ERFA-møde i appudviklings gruppen. Her fik vi snakket om vores forskellige arbejds metoder og at vi fortsat føre status om søndagen.
+
+Efter mødet forsatte jeg med PHP-kurset[^2] hvor jeg kiggede på databaser og PDO.
 
 ## Torsdag 07/03
 
@@ -28,3 +31,4 @@ Vi fortsatte arbejdet i projektgruppen med vores API. Vi gennemgik databasen og 
 
 
 [^1]: [*Flutter & Dart - The Complete Guide*](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+[^2]: [*PHP For Beginners*](https://laracasts.com/series/php-for-beginners-2023-edition)

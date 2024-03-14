@@ -26,6 +26,7 @@ Efter mødet forsatte jeg med PHP-kurset[^2] hvor jeg kiggede på databaser og P
 
 ## Torsdag 07/03
 
+Generelt er der ikke sket så meget. Jeg fik kort kigget på Flutter-kurset[^2] inden procesvejledningen, hvor vi fik snakket om, hvad der motiverer én, og hvad man kan gøre, hvis ens motivation ikke er særlig høj. 
 
 ## Fredag 08/03
 

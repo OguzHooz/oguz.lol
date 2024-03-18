@@ -30,10 +30,9 @@ Generelt er der ikke sket så meget. Jeg fik kort kigget på Flutter-kurset[^2] 
 
 ## Fredag 15/03
 
-Fortsatte med Flutter-kurset[^2], hvor den kom ind på stateful widgets.
+Fortsatte med Flutter-kurset[^1], hvor den kom ind på stateful widgets.
 Endte også med at fuldføre det mål, der var planlagt i dette sprint, og målene skal derfor tilrettelægges til næste uge.
-
-Jeg er derfor begyndt på den næste del af kurset.
+Produktet endte med at blive en terningskast-app, som kan tilgås på [GitHub](https://github.com/OguzHooz/Roll-Dice).
 
 [^1]: [*Flutter & Dart - The Complete Guide*](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 [^2]: [*PHP For Beginners*](https://laracasts.com/series/php-for-beginners-2023-edition)

@@ -17,6 +17,7 @@ Efterfølgende gik jeg i gang med den næste del af Flutter-kurset[^1].
 
 ## Tirsdag 19/03
 
+Vi mødtes i projektgruppen og fik snakket lidt om projektet, ellers gik resten af dagen med praktiksøgning.
 
 ## Onsdag 20/03
 

@@ -21,6 +21,8 @@ Vi mødtes i projektgruppen og fik snakket lidt om projektet, ellers gik resten 
 
 ## Onsdag 20/03
 
+Da der er kommet en ny version af Laravel Frameworket, er dagen blevet brugt på følgende [YouTube tutorial](https://www.youtube.com/watch?v=eUNWzJUvkCA).
+Dette resulterede i en notetagnings webapp med authentication, som også kan ses på [GitHub](https://github.com/OguzHooz/Laravel-Notes).
 
 ## Torsdag 21/03
 

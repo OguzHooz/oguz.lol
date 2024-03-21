@@ -26,6 +26,8 @@ Dette resulterede i en notetagnings webapp med authentication, som også kan ses
 
 ## Torsdag 21/03
 
+Dagen blev brugt på projektarbejde, hvor vi fik set på, hvordan vi kunne hoste API'en på Azure.
+Her fik Kasper vores API op på Azure, men der var dog nogle små problemer med, at vi andre i gruppen ikke kunne få adgang til databasen.
 
 ## Fredag 22/03
 

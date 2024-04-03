@@ -12,6 +12,9 @@ Følgende kilder anvendes til udviklingen af Laravel, og de vil løbende blive e
     - God kilde, men det vil give god mening at genbesøge den, når man har en bedre forståelse for PHP og selve frameworket.
     - Indeholder generel information om frameworket. Kilden antog dog, at man har forståelse inden for webudvikling og primært handler om, hvordan man bevæger sig rundt i Laravel.
 - [Laracasts courses](https://laracasts.com/)
+- [Laravel 11 Crash Course](https://www.youtube.com/watch?v=eUNWzJUvkCA)
+    - En god kilde, hvis man allerede har forståelse for Laravel's opsætning; hvis ikke, bliver det kort gennemgået i starten.
+    - Den gennemgår også emner som authentication samt eloquent (ORM) meget godt og opsætning af applikationen fra bunden.
 - [LinkedIn Learning: Laravel 9.0 Essential Training](https://www.linkedin.com/learning/laravel-9-0-essential-training?contextUrn=urn%3Ali%3AlearningCollection%3A7162729575288885248&u=57075649)
 - [LinkedIn Learning: Advanced Laravel](https://www.linkedin.com/learning/advanced-laravel-22373805?contextUrn=urn%3Ali%3AlearningCollection%3A7162729575288885248&u=57075649)
 

@@ -31,6 +31,7 @@ Her fik Kasper vores API op på Azure, men der var dog nogle små problemer med,
 
 ## Fredag 22/03
 
+Dagen blev primært brugt på at evaluering af disse to ugers mål og opsætning af de næate 2 ugers plan og mål.
 
 
 [^1]: [*Flutter & Dart - The Complete Guide*](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)

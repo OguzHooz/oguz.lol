@@ -41,5 +41,8 @@ Da alle i gruppen skulle til møde hele dagen, er der ikke blevet lavet noget p�
 
 ## Fredag 05/04
 
+Jeg begyndte på den næste del af Flutter-kurset[^2], som beskrevet i læringsmålene for dette sprint.
+Her blev der kigget på de fleste af de emner, som er beskrevet i målene, og jeg forventer at blive færdig med dem på mandag, så der skal tilføjes mere til målene.
 
 [^1]: [*Build a Video Game Aggregator*](https://laracasts.com/series/build-a-video-game-aggregator)
+[^2]: [*Flutter & Dart - The Complete Guide*](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)

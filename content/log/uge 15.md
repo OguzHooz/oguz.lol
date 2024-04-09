@@ -14,6 +14,8 @@ Jeg blev færdig med målene for dette sprint, som resulterede i følgende Quiz 
 
 ## Tirsdag 09/04
 
+Dagen stod på projektarbejde. Jeg kiggede på, hvordan man gemmer dataene fra csdmAPI'en til en database,
+så man ikke behøver at analysere demofilen igen, men i stedet tjekker databasen, om den allerede eksisterer.
 
 ## Onsdag 10/04
 

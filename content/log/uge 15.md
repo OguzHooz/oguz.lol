@@ -19,7 +19,8 @@ så man ikke behøver at analysere demofilen igen, men i stedet tjekker database
 
 ## Onsdag 10/04
 
-
+Jeg fik kigget meget kort på Laravel-kurset, men jeg fik også kigget lidt på noget Flutter samt en smule på praktik.
+Generelt har det ikke været en særlig produktiv dag.
 
 ## Torsdag 11/04
 

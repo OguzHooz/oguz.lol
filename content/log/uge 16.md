@@ -1,6 +1,6 @@
 ---
 title: "Uge 16"
-summary: "Log for uge 16aa"
+summary: "Log for uge 16"
 ShowReadingTime: false
 ShowWordCount: false
 ShowRssButtonInSectionTermList: false

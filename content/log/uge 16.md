@@ -17,7 +17,8 @@ Der er ikke blevet kigget på Flutter i dag.
 
 ## Tirsdag 16/04
 
-
+Vi mødtes i projektgruppen, og jeg arbejdede videre med [csdm API'en](https://github.com/OguzHooz/csdmAPI), så det nu er muligt at tilgå data fra en specifik spiller,
+så man ikke får andres data med eller generelle data om selve kampen, der ikke er nødvendige for den specifikke spiller, og hvordan andre klarer sig.
 
 ## Onsdag 17/04
 

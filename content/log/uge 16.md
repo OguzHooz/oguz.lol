@@ -22,7 +22,9 @@ så man ikke får andres data med eller generelle data om selve kampen, der ikke
 
 ## Onsdag 17/04
 
-
+Jeg begyndte på et helt andet kursus end det, jeg oprindeligt havde planlagt til Laravel.
+Jeg følger følgende [YouTube tutorial](https://www.youtube.com/watch?v=VrQRa-afCAk) og er cirka halvvejs igennem den, og mit arbejde kan ses på følgende [GitHub repo](https://github.com/OguzHooz/laravel-pm-spa).
+Produktet ender med at blive en projekt styrings webapplikation, hvor man kan se forskellige opgaver knyttet til projekter.
 
 ## Torsdag 18/04
 

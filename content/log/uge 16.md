@@ -29,7 +29,7 @@ Produktet ender med at blive en projekt styrings webapplikation, hvor man kan se
 ## Torsdag 18/04
 
 Var til procesvejledning, hvor vi snakkede om vores langsigtet læringmål.
-Blandt andet snakkede vi om forskellen på viden, færdigheder og kompetencer og hvordan de opsættes. Mine nuværende langsigtet læringmål kan ses [her](/langsigtet).
+Blandt andet snakkede vi om forskellen på viden, færdigheder og kompetencer og hvordan de opsættes. Mine nuværende langsigtet læringmål kan ses [her](/plan/langsigtet).
 
 Efterfølgende var jeg i projektgruppen, hvor jeg arbejdede på at få hostet [csdm API'en](https://github.com/OguzHooz/csdmAPI).
 Kom dog ikke i mål, da jeg løb ind i problemer med databaseopsætningen. Da api'en skal køre på production, kan den ikke bruge en lokal database, men i stedet den fulde SQL Server,

@@ -37,3 +37,4 @@ hvilket også var et problem, da jeg prøvede at få den op på min egen Linux-s
 
 ## Fredag 19/04
 
+Det meste af dagen blev brugt på at få databasen op og kørende. Dog var der stadig nogle problemer med at få API'en til at forbinde sig til databasen.

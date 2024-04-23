@@ -55,6 +55,8 @@ class ExpenseItem extends StatelessWidget {
 
 ## Tirsdag 23/04
 
+Fortsatte med projektarbejdet og kiggede videre på at få hostet [csdm API'en](https://github.com/OguzHooz/csdmAPI).
+Jeg har fået databasen op og kørende, og API'en forbinder korrekt til databasen. Dog er der nogle problemer med at tilgå endpointsne gennem nginx-proxyen på serveren.
 
 ## Onsdag 24/04
 

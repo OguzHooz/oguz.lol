@@ -60,6 +60,9 @@ Jeg har fået databasen op og kørende, og API'en forbinder korrekt til database
 
 ## Onsdag 24/04
 
+Fortsatte med [YouTube tutorial](https://www.youtube.com/watch?v=VrQRa-afCAk), og det meste af tiden er gået med at fikse bugs.
+Jeg fik også kigget lidt videre på hosting af [csdm API'en](https://github.com/OguzHooz/csdmAPI) denne gang på Azure, men det lod ikke til at virke,
+da jeg løb ind i problemer med at få den publiceret.
 
 ## Torsdag 25/04
 

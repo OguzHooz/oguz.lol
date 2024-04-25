@@ -69,7 +69,8 @@ da jeg løb ind i problemer med at få den publiceret.
 Fortsatte med at kigge på, hvordan jeg kunne få hostet [csdm API'en](https://github.com/OguzHooz/csdmAPI).
 Problemet er, at API'en prøver at redirecte til https, men fejler, selvom den indgående anmodning er i https bag en nginx-proxy.
 Jeg fik også kigget lidt på praktiksøgning.
-{{< inTextImg url="/project/project-1.png" height=200 alt="" >}}
+
+{{< inTextImg url="/project/project-1.png" height=40 alt="" >}}
 
 ## Fredag 26/04
 

@@ -74,5 +74,6 @@ Jeg fik også kigget lidt på praktiksøgning.
 
 ## Fredag 26/04
 
+Dagen blev primært brugt til at færdiggøre Flutter-kurset[^1], som kan ses på følgende [GitHub repo](https://github.com/OguzHooz/Expense-Tracker).
 
 [^1]: [*Flutter & Dart - The Complete Guide*](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)

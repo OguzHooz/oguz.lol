@@ -4,7 +4,7 @@ summary: "Log for uge 17"
 ShowReadingTime: false
 ShowWordCount: false
 ShowRssButtonInSectionTermList: false
-weight: 100
+weight: 110
 ---
 
 ## Mandag 22/04

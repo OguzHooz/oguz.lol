@@ -13,6 +13,8 @@ Dagen er primært blevet brugt til at evaluere de sidste to ugers sprint, samt o
 
 ## Tirsdag 30/04
 
+Vi fik arbejdet videre i projektgruppen, hvor jeg fortsat kiggede på at få hostet [csdm API'en](https://github.com/OguzHooz/csdmAPI) uden noget held.
+I stedet for at selv hoste den på egen server, fik jeg API'en hostet på Azure med hjælp fra Kasper, så API'en nu er tilgængelig for hele gruppen.
 
 ## Onsdag 01/05
 

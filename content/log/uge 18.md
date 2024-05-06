@@ -30,3 +30,5 @@ Her tænker jeg, at jeg vil udvælge en enkelt eller to produkter til hvert emne
 hvor jeg vil vise selve produktet og noget tilhørende kode til den del, jeg snakker om.
 
 ## Fredag 03/05
+
+Fik arbejdet med Flutter og kiggede på målene, hvor jeg undersøgte Widget-træet, Element-træet og Render-træet.

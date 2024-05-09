@@ -28,6 +28,9 @@ Dagen er primært gået med praktiksøgning.
 
 ## Torsdag 09/05
 
+Har arbejdet med Laravel, hvor jeg har udviklet en API. Selve projektet handler om at udvikle en API til et ticketing-system.
+Jeg har nået at implementere funktioner, så man kan anmode om en individuel ticket eller en samling af tickets, hvor det også er muligt at inkludere den bruger, som ticketen tilhører.
+Man kan også anmode om en individuel bruger eller en samling af brugere, hvor det også er muligt at se de tilhørende tickets for brugeren. Projektet kan ses på [GitHub](https://github.com/OguzHooz/laravel-ticket-api).
 
 ## Fredag 10/05
 

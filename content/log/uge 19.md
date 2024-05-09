@@ -24,6 +24,7 @@ kontrollere navigationsprocessen og returnere data, når man *popper* en skærm.
 
 ## Onsdag 08/05
 
+Dagen er primært gået med praktiksøgning.
 
 ## Torsdag 09/05
 

@@ -34,5 +34,6 @@ Man kan også anmode om en individuel bruger eller en samling af brugere, hvor d
 
 ## Fredag 10/05
 
+Dagen er primært gået med praktiksøgning og med at evaluere og sætte op nye mål for de næste to uger.
 
 [^1]: [*Flutter & Dart - The Complete Guide*](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)

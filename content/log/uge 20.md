@@ -23,6 +23,10 @@ Dagen er primært gået med praktiksøgning.
 
 ## Torsdag 16/05
 
+Var til procesvejledning, hvor vi fik snakket om produktvideoen i forhold til læringsmålene og hvordan vi vil vise det i videoen. Vi snakkede også lidt generelt om eksamen og hvordan den forgår.
+Resten af dagen blev brugt på praktiksøgning.
 
 ## Fredag 17/05
 
+Jeg kiggede på Flutter og færdiggjorde den sidste del med Riverpod State Management. Nu begynder jeg at arbejde på produktvideoen og har en generel plan for, hvad selve videoen skal indeholde.
+Der bliv også kigget på praktiksøgning.

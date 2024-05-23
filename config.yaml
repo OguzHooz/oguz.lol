@@ -62,14 +62,6 @@ menu:
       url: plan
       weight: 20
     - identifier: source
-      name: Sources
+      name: Kilder
       url: source
       weight: 30
-    - identifier: product
-      name: Products
-      url: product
-      weight: 40
-    - identifier: about
-      name: About
-      url: about
-      weight: 50

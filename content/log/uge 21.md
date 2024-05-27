@@ -21,7 +21,8 @@ Er gået i gang med at lave manuskript til produktvideoen og er også begyndt p�
 
 ## Torsdag 23/05
 
-
+Kiggede lidt på praktiksøgning og fortsatte med at arbejde på manuskriptet. Evaluerede også alle de kilder, jeg har brugt i løbet af semesteret.
 
 ## Fredag 24/05
 
+Fik fortsat kigget på videon og praktiksøgning.
